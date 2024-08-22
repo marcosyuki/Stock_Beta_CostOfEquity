@@ -16,6 +16,7 @@ This project involves analyzing the performance of a given stock relative to the
 - **Financial Analysis:** Stock performance metrics, risk-free rate integration
 - **Data Visualization:** Comparative and normalized price plotting
 
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/55bcfb9d-087d-4ad7-923c-7816de739f68">
 
 
 
