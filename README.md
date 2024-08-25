@@ -1,6 +1,6 @@
 ### Project Summary
 
-**Title: Stock Performance and Cost of Equity Analysis**
+### Stock Performance and Cost of Equity Analysis
 
 This project involves analyzing the performance of a given stock relative to the S&P 500 index (^GSPC) over a specified period. The analysis includes calculating the stock's Beta, the R-squared value from a regression model, and the Cost of Equity using the Capital Asset Pricing Model (CAPM). The project also includes visualizing the stock's adjusted close prices compared to the S&P 500 index and normalizing the prices for comparative analysis.
 
