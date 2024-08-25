@@ -1,6 +1,4 @@
-### Project Summary
-
-### Stock Performance and Cost of Equity Analysis
+## Stock Performance and Cost of Equity Analysis
 
 This project involves analyzing the performance of a given stock relative to the S&P 500 index (^GSPC) over a specified period. The analysis includes calculating the stock's Beta, the R-squared value from a regression model, and the Cost of Equity using the Capital Asset Pricing Model (CAPM). The project also includes visualizing the stock's adjusted close prices compared to the S&P 500 index and normalizing the prices for comparative analysis.
 
@@ -15,6 +13,16 @@ This project involves analyzing the performance of a given stock relative to the
 - **Data Analysis:** Regression analysis, Beta calculation, Cost of Equity (CAPM)
 - **Financial Analysis:** Stock performance metrics, risk-free rate integration
 - **Data Visualization:** Comparative and normalized price plotting
+
+### Python Libraries: 
+- **yFinance** (`import yfinance as yf`)
+  - For accessing financial data from Yahoo Finance
+- **Statsmodels** (`import statsmodels.api as sm`)
+  - For statistical modeling and analysis
+- **Datetime** (`from datetime import timedelta, datetime`)
+  - For handling dates and times, including performing operations like adding or subtracting time
+- **Matplotlib** (`import matplotlib.pyplot as plt`)
+  - For data visualization and plotting
 
 ---------------------
 
